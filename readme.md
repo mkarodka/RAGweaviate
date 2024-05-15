@@ -1,3 +1,5 @@
+# Weaviate
+
 Run docker container for PySpark-Jupyter and Weaviate.
 $ docker compose up -d
 
